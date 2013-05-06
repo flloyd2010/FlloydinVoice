@@ -36,8 +36,8 @@
 		47D89F2116A2CEDE0000367B /* MoveEasy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 47D89F2016A2CEDE0000367B /* MoveEasy.mp3 */; };
 		47D89F2316A2D16F0000367B /* BreathExercises.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 47D89F2216A2D16F0000367B /* BreathExercises.mp3 */; };
 		47D89F2516A2D4430000367B /* logo 360.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47D89F2416A2D4430000367B /* logo 360.jpg */; };
-		47D89F2716A2D6620000367B /* FlloydKennedy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47D89F2616A2D6620000367B /* FlloydKennedy.jpg */; };
 		47D89F2916A2DB890000367B /* BeingInBreath.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 47D89F2816A2DB890000367B /* BeingInBreath.mp3 */; };
+		47DAA9EC17377B9200448667 /* Flloyd2013.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47DAA9EB17377B9200448667 /* Flloyd2013.jpg */; };
 		47DB015216A19576004F2F58 /* bar-background.png in Resources */ = {isa = PBXBuildFile; fileRef = 47DB014716A19576004F2F58 /* bar-background.png */; };
 		47DB015316A19576004F2F58 /* bar-background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 47DB014816A19576004F2F58 /* bar-background@2x.png */; };
 		47DB015416A19576004F2F58 /* bar-highlight.png in Resources */ = {isa = PBXBuildFile; fileRef = 47DB014916A19576004F2F58 /* bar-highlight.png */; };
@@ -150,8 +150,8 @@
 		47D89F2016A2CEDE0000367B /* MoveEasy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MoveEasy.mp3; sourceTree = "<group>"; };
 		47D89F2216A2D16F0000367B /* BreathExercises.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = BreathExercises.mp3; path = VoiceApp/audio/BreathExercises.mp3; sourceTree = SOURCE_ROOT; };
 		47D89F2416A2D4430000367B /* logo 360.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "logo 360.jpg"; path = "VoiceApp/images/logo 360.jpg"; sourceTree = "<group>"; };
-		47D89F2616A2D6620000367B /* FlloydKennedy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = FlloydKennedy.jpg; path = VoiceApp/images/FlloydKennedy.jpg; sourceTree = "<group>"; };
 		47D89F2816A2DB890000367B /* BeingInBreath.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = BeingInBreath.mp3; sourceTree = "<group>"; };
+		47DAA9EB17377B9200448667 /* Flloyd2013.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Flloyd2013.jpg; path = VoiceApp/images/Flloyd2013.jpg; sourceTree = "<group>"; };
 		47DB014716A19576004F2F58 /* bar-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "bar-background.png"; path = "VoiceApp/images/bar-background.png"; sourceTree = "<group>"; };
 		47DB014816A19576004F2F58 /* bar-background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "bar-background@2x.png"; path = "VoiceApp/images/bar-background@2x.png"; sourceTree = "<group>"; };
 		47DB014916A19576004F2F58 /* bar-highlight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "bar-highlight.png"; path = "VoiceApp/images/bar-highlight.png"; sourceTree = "<group>"; };
@@ -347,7 +347,7 @@
 				47DB014D16A19576004F2F58 /* handle-hover.png */,
 				47DB014E16A19576004F2F58 /* handle-hover@2x.png */,
 				47DB014F16A19576004F2F58 /* handle.png */,
-				47D89F2616A2D6620000367B /* FlloydKennedy.jpg */,
+				47DAA9EB17377B9200448667 /* Flloyd2013.jpg */,
 				47DB015016A19576004F2F58 /* handle@2x.png */,
 				47DF75511698501E0054B51C /* forward.png */,
 				47DF75521698501E0054B51C /* pause.png */,
@@ -689,7 +689,6 @@
 				47D89F2116A2CEDE0000367B /* MoveEasy.mp3 in Resources */,
 				47D89F2316A2D16F0000367B /* BreathExercises.mp3 in Resources */,
 				47D89F2516A2D4430000367B /* logo 360.jpg in Resources */,
-				47D89F2716A2D6620000367B /* FlloydKennedy.jpg in Resources */,
 				47D89F2916A2DB890000367B /* BeingInBreath.mp3 in Resources */,
 				47CC5F2216AE2EFF00FF0DC8 /* Welcome.mp3 in Resources */,
 				47CC5F2516B0045100FF0DC8 /* VocalMaintenanceProgram.mp3 in Resources */,
@@ -705,6 +704,7 @@
 				47513AE9171F9E9200D3A7C8 /* splash.png in Resources */,
 				47513AF0171F9F3700D3A7C8 /* Default@2x.png in Resources */,
 				47513AFE171FA20D00D3A7C8 /* Default-568h@2x.png in Resources */,
+				47DAA9EC17377B9200448667 /* Flloyd2013.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
